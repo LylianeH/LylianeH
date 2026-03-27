@@ -16,13 +16,7 @@
 
 > *"The question isn't who's going to let me — it's who's going to stop me."*
 
-Aspiring Industrial Engineer passionate about making machines, data and humans work together intelligently.
-I thrive on challenges, technical and human ones.
-Being a woman in a male-dominated field was never a weakness. It shaped my resilience, my precision, and my drive to prove that passion beats convention.
-
-- Focused on **Industry 4.0**, **Digital Twin**, **IIoT** and **OT/IT Cybersecurity**
-- I love breaking things (ethically) and securing them back
-- DevOps · Cloud · Automatisation · Transformation Digitale
+I don't wait to understand everything before I start. I learn by doing, fix as I go, and I never stay stuck for long. Machines, networks, industrial systems. I want to know what's underneath, how it breaks, and how to make it work better than before. I ended up in industrial engineering not by accident but because I wanted something real. Systems that run factories, secure infrastructures, connect the physical and digital worlds. Being a woman here was never the point. The work was.
 
 ---
 
