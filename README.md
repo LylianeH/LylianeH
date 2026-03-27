@@ -28,10 +28,10 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 
 ### Languages
 
-<img src="assets/french.png" width="24"/> &nbsp;
-<img src="assets/english.png" width="24"/> &nbsp;
-<img src="assets/arabic.png" width="24"/> &nbsp;
-<img src="assets/amazigh.png" width="24"/>
+<img src="assets/french.png" width="34"/> &nbsp;
+<img src="assets/english.png" width="34"/> &nbsp;
+<img src="assets/arabic.png" width="34"/> &nbsp;
+<img src="assets/amazigh.png" width="34"/>
 
 ---
 
