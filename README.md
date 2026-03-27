@@ -1,4 +1,4 @@
-# Lyliane Hamnache
+# Hi I'm Lyliane 🌸
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1000&color=FFB7C5&center=true&width=700&lines=Digital+Twin+%7C+IIoT+%7C+OT%2FIT+Security;Building+systems+that+connect+machines+%26+humans;Always+learning%2C+always+fighting+for+truth" />
@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+### About Me
 
 > *"The question isn't who's going to let me — it's who's going to stop me."*
 
@@ -26,7 +26,7 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 
 ---
 
-## Languages
+### Languages
 
 <img src="assets/french.png" width="24"/> &nbsp;
 <img src="assets/english.png" width="24"/> &nbsp;
@@ -35,9 +35,9 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-### Industrial & OT/IT
+#### Industrial & OT/IT
 
 ![Digital Twin](https://img.shields.io/badge/Digital%20Twin-FFB7C5?style=for-the-badge&logoColor=white)
 ![SCADA](https://img.shields.io/badge/SCADA-ffb7c5?style=for-the-badge&logoColor=white)
@@ -49,7 +49,7 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 ![MES](https://img.shields.io/badge/MES-ffb7c5?style=for-the-badge&logoColor=white)
 ![ERP](https://img.shields.io/badge/ERP%20Sage-c084fc?style=for-the-badge&logoColor=white)
 
-### Cybersecurity
+#### Cybersecurity
 
 ![Pentest](https://img.shields.io/badge/Pentest-FFB7C5?style=for-the-badge&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-f472b6?style=for-the-badge&logoColor=white)
@@ -62,14 +62,14 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 ![Nmap](https://img.shields.io/badge/Nmap-c084fc?style=for-the-badge&logoColor=white)
 ![OT Security](https://img.shields.io/badge/OT%20Security-FFB7C5?style=for-the-badge&logoColor=white)
 
-### Hardware & Embedded
+#### Hardware & Embedded
 
 ![Arduino](https://img.shields.io/badge/Arduino-FFB7C5?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-c084fc?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-f472b6?style=for-the-badge&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-FFB7C5?style=for-the-badge&logoColor=white)
 
-### Dev & Languages
+#### Dev & Languages
 
 ![Python](https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-c084fc?style=for-the-badge&logo=c&logoColor=white)
@@ -78,7 +78,7 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 ![SQL](https://img.shields.io/badge/SQL-c084fc?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-f472b6?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Cloud & DevOps & Infra
+#### Cloud & DevOps & Infra
 
 ![Docker](https://img.shields.io/badge/Docker-FFB7C5?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-c084fc?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -88,7 +88,7 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 ![Git](https://img.shields.io/badge/Git-f472b6?style=for-the-badge&logo=git&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-FFB7C5?style=for-the-badge&logoColor=white)
 
-### Data & AI
+#### Data & AI
 
 ![pandas](https://img.shields.io/badge/pandas-c084fc?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f472b6?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -98,15 +98,17 @@ Being a woman in a male-dominated field was never a weakness. It shaped my resil
 
 ---
 
-## Connect
+### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lyliane-hamnache/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="assets/linkedin.png" width="36"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/lyliane">
+    <img src="assets/discord.png" width="36"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&pause=2000&color=FFB7C5&center=true&width=500&lines=Engineer+by+passion%2C+woman+by+chance" />
