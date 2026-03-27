@@ -17,7 +17,7 @@
 > *"The question isn't who's going to let me — it's who's going to stop me."*
 
 Aspiring Industrial Engineer passionate about making machines, data and humans work together intelligently.
-I thrive on challenges — technical and human ones.
+I thrive on challenges, technical and human ones.
 Being a woman in a male-dominated field was never a weakness. It shaped my resilience, my precision, and my drive to prove that passion beats convention.
 
 - Focused on **Industry 4.0**, **Digital Twin**, **IIoT** and **OT/IT Cybersecurity**
